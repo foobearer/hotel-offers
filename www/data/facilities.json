@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "name": "Spa",
+    "address": "Bas Brasa Road, Singapore",
+    "description": "Lorem ipsum dolor sit amet, id sea mazim option fabulas",
+    "img": "img/facilities.png",
+    "likes": "8",
+    "reviews": "102"
+  },
+  {
+    "id": 1,
+    "name": "Beach",
+    "address": "Bas Brasa Road, Singapore",
+    "description": "Lorem ipsum dolor sit amet, id sea mazim option fabulas",
+    "img": "img/facilities.png",
+    "likes": "8",
+    "reviews": "102"
+  },
+  {
+    "id": 2,
+    "name": "Free Wifi",
+    "address": "Bas Brasa Road, Singapore",
+    "description": "Lorem ipsum dolor sit amet, id sea mazim option fabulas",
+    "img": "img/facilities.png",
+    "likes": "8",
+    "reviews": "102"
+  },
+  {
+    "id": 3,
+    "name": "Breakfast",
+    "address": "Bas Brasa Road, Singapore",
+    "description": "Lorem ipsum dolor sit amet, id sea mazim option fabulas",
+    "img": "img/facilities.png",
+    "likes": "8",
+    "reviews": "102"
+  },
+  {
+    "id": 4,
+    "name": "Pool",
+    "address": "Bas Brasa Road, Singapore",
+    "description": "Lorem ipsum dolor sit amet, id sea mazim option fabulas",
+    "img": "img/facilities.png",
+    "likes": "8",
+    "reviews": "102"
+  }
+]

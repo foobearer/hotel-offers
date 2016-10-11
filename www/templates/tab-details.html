@@ -1,0 +1,26 @@
+<ion-view>
+	<ion-nav-title>{{details.name}}</ion-nav-title>
+  <ion-content class="padding">
+
+  <div class="list card">
+
+	  <div class="item item-avatar">
+	    <img ng-src="{{details.img}}">
+	    <h2>{{details.name}}</h2>
+	    <p>{{details.address}}</p>
+	  </div>
+
+	  <div class="item item-body">
+	    <img class="full-image" ng-src="{{details.img}}">
+	    <p>
+	      {{details.description}}
+	    </p>
+	    <p>
+	      <a href="#" class="subdued">{{details.likes}} Likes</a>
+	      <a href="#" class="subdued">{{details.reviews}} Reviews</a>
+	    </p>
+	  </div>
+
+	</div>
+  </ion-content>
+</ion-view>

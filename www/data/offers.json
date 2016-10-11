@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "name": "Swissotel The Stamford",
+    "address": "Bas Brasa Road, Singapore",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "img/home-cover.jpg",
+    "likes": "8",
+    "reviews": "102"
+  },
+  {
+    "id": 1,
+    "name": "Carlton Hotel Singapore",
+    "address": "Singapore, 1.5 km to City centre",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "img/home-cover.jpg",
+    "likes": "81",
+    "reviews": "102"
+  },
+  {
+    "id": 2,
+    "name": "Hard Rock Hotel",
+    "address": "Singapore, 2.6 km to City centre",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "img/home-cover.jpg",
+    "likes": "3",
+    "reviews": "102"
+  },
+  {
+    "id": 3,
+    "name": "Royal Plaza on Scotts",
+    "address": "Singapore, 5.4 km to City centre",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "img/home-cover.jpg",
+    "likes": "4",
+    "reviews": "102"
+  },
+  {
+    "id": 4,
+    "name": "Fairmont Singapore",
+    "address": "Singapore, 1.5 km to City centre",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "img": "img/home-cover.jpg",
+    "likes": "12",
+    "reviews": "102"
+  }
+]

@@ -1,0 +1,25 @@
+<ion-view view-title="{{offerDetails.name}}">
+  <ion-content class="padding">
+
+  <div class="list card">
+
+	  <div class="item item-avatar">
+	    <img ng-src="{{offerDetails.img}}">
+	    <h2>{{offerDetails.name}}</h2>
+	    <p>{{offerDetails.address}}</p>
+	  </div>
+
+	  <div class="item item-body">
+	    <img class="full-image" ng-src="{{offerDetails.img}}">
+	    <p>
+	      {{offerDetails.description}}
+	    </p>
+	    <p>
+	      <a href="#" class="subdued">{{offerDetails.likes}} Likes</a>
+	      <a href="#" class="subdued">{{offerDetails.reviews}} Reviews</a>
+	    </p>
+	  </div>
+
+	</div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,10 @@
+<ion-view view-title="Facilities">
+  <ion-content>
+    <ion-list>
+    	<ion-item ng-repeat="facility in facilities" href="#/tab/facilities/{{facility.id}}" class="item-remove-animate item-icon-right">
+    		<h2>{{facility.name}}</h2>
+    		<i class="icon ion-chevron-right icon-accessory"></i>
+    	</ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
